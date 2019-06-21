@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to obtain the number of visible selected rows
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e356/)**
+<!-- run online end -->
 
 
 <p>This example introduces a simple method that allows you to obtain the number of visible selected rows in the ASPxGridView.</p>
